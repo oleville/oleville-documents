@@ -1,0 +1,35 @@
+.title {
+  font-size: 36px;
+  font-weight: bold;
+  display:inline-block;
+}
+
+.arrow{
+  width: 80px;
+  height: 80px;
+  float: right;
+  display: block;
+  padding: 10px;
+}
+
+.secondColor {
+	background-color: #DFF5FF;
+  width: 100%;
+  padding: 10px;
+
+}
+
+a:link { text-decoration: none; border: 0px; -moz-outline-style: none;}
+
+a:active { text-decoration: underline; border: 0px; -moz-outline-style: none;}
+
+a:visited { text-decoration: none; border: 0px; -moz-outline-style: none;}
+
+a:hover { text-decoration: underline; border: 0px; -moz-outline-style: none;}
+
+a:focus { outline: none;-moz-outline-style: none;}
+
+.firstColor {
+  width: 100%;
+  padding: 10px;
+}
